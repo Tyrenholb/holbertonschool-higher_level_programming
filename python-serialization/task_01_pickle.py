@@ -3,7 +3,6 @@
 
 
 import pickle
-import json
 
 
 class CustomObject:
