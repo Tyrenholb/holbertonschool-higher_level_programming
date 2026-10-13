@@ -7,7 +7,9 @@ import csv
 
 
 def convert_csv_to_json(filename):
+    """Write CSV rows to data.json,returning True on success or False on error."""
     data = []
+
     try:
         with open(filename, "r", encoding="utf-8", newline="") as f_csv:
             csv_reader = csv.DictReader(f_csv)
