@@ -10,7 +10,7 @@ if __name__ == "__main__":
         host="localhost",
         port=3306,
         user=sys.argv[1],
-        password=sys.argv[2],
+        passwd=sys.argv[2],
         db=sys.argv[3],
     )
     cursor = db.cursor()
