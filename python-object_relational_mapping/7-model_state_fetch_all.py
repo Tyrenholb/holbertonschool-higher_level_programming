@@ -1,7 +1,6 @@
 #!/usr/bin/python3
 """ists all State objects from the database"""
 
-import MySQLdb
 import sys
 from sqlalchemy.orm import sessionmaker
 from sqlalchemy import create_engine
