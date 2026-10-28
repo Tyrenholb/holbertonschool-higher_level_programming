@@ -1,4 +1,4 @@
-#!/sre/bin/python3
+#!/ure/bin/python3
 """Prints all city objects from database"""
 
 import sys
