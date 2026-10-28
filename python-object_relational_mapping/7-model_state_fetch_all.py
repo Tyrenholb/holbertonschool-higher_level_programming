@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""ists all State objects from the database"""
+"""lists all State objects from the database"""
 
 import sys
 from sqlalchemy.orm import sessionmaker
