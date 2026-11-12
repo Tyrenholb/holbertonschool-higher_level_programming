@@ -86,7 +86,7 @@ PYTHON
 cat data.json
 ```
 
-The function prints `True`, and `data.json` contains:
+The example prints `True`, and `data.json` contains:
 
 ```json
 [{"name": "Ada", "age": "28"}]
