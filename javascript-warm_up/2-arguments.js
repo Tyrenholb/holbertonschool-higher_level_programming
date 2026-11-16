@@ -8,5 +8,5 @@ if (argv.length === 2) {
   console.log('Argument found');
 }
 else {
-    console.log('Arguements found');
+    console.log('Arguments found');
 }
