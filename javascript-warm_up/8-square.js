@@ -14,7 +14,7 @@ while (i < num) {
   j = 0;
   row = '';
   while (j < num) {
-    row += 'x';
+    row += 'X';
     j++;
   }
   console.log(row);
